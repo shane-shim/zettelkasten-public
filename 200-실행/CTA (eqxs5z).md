@@ -1,0 +1,81 @@
+# CTA (eqxs5z)
+
+#200-실행
+
+CTA
+(Cognitive Task Analysis)
+**CTA (Cognitive Task Analysis)**
+**What experts know**
+* perceptual skills / noticing (남들은 좋다고 말하지만 나는 아니야 뭔가 있어 라고 낌새를 느끼는 것) 
+* mental models / big picture
+* sense of typicality and associations(패턴인식. 하나를 보면 어떤 유형인지 아는 것)
+* routines / job smarts
+* (declarative knowledge)**What experts can do**
+* run mental simulations/past and future
+to diagnose
+to explain
+to form expectancies
+* spot anomalies and detect problems / anomalies
+* find leverage points / opportunities / improvising perform workarounds
+* manage uncertainty
+* plan and replan
+* assess complex situations
+* manage attention
+* take their strengths and limitations into account / self-monitoring
+MSA
+Working Minds: A Practitioner's Guide to Cognitive Task Analysis (Paperback)(게리클라인저서 :[https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=1294956](https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=1294956)) 
+
+[전문가의 패턴]
+Past and Future Probe
+When experiencing a situation, experts are able to figure out how that situation developed, and they can think into the future to see where the situation is going. Among other things, this allows the expert to head off problems before they develop (de Groot 1946/1978; Endsley, 1995; Klein & Crandall, 1995; Klein & Hoffman, 1993).
+"Past and Future Probe"는 과거 사건을 재구성하고 미래의 가능성을 탐색하는 멘탈 시뮬레이션의 한 형태로 볼 수 있습니다. 이는 과거의 경험을 분석하고, 미래에 일어날 수 있는 상황을 예측하는 데 도움을 줍니다. 예를 들어, 비즈니스 결정을 내릴 때 과거의 성공 사례나 실패 사례를 분석하고, 그 기반으로 미래의 전략을 수립하는 것이 이에 해당합니다.
+이러한 멘탈 시뮬레이션은 다음과 같은 방법으로 활용될 수 있습니다:
+1. **과거 사건의 분석(Diagnosing)**: 과거의 사건이나 경험을 떠올리며 그 상황에서 무엇이 잘 되었고, 무엇이 잘못되었는지를 분석합니다. 이를 통해 교훈을 얻고, 비슷한 상황이 발생했을 때 더 나은 결정을 내릴 수 있습니다.
+2. **미래 상황의 예측(Predicting)**: 미래의 가능한 시나리오를 상상하며, 다양한 변수와 결과를 고려합니다. 이를 통해 미래의 불확실성을 줄이고, 가능한 결과에 대비할 수 있습니다.
+멘탈 시뮬레이션은 전문가들이 자신의 분야에서 더 효과적인 결정을 내리는 데 도움을 주며, 실제 경험을 통해 얻을 수 있는 통찰력을 머릿속 시뮬레이션을 통해 미리 얻을 수 있게 해줍니다. 이러한 과정은 특히 복잡한 문제 해결이나 창의적인 아이디어 생성에 유용합니다.
+
+**Big Picture Probe **
+(Situation Awareness)
+Novices may only see bits and pieces of a situation. Experts are able to quickly build an understanding of the whole situation, the "big picture" view. This allows the expert to think about how different elements fit together and affect each other (Endsley, 1995; Klein, 1997).
+
+초보자들은 어떤 상황을 단편적으로만 볼 수 있지만, 전문가들은 빠르게 전체 상황을 이해하고 '큰 그림'을 볼 수 있다. 이를 통해 전문가는 서로 다른 요소들이 어떻게 서로 영향을 미치고 조화를 이루는지 생각할 수 있다 (Endsley, 1995; Klein, 1997).
+
+**Noticing Probe **
+(Perceptual Skills)
+Experts are able to detect cues and see meaningful patterns that less-experienced personnel may miss altogether (de Groot, 1946/1978; Klein & Hoffman, 1993; Shanteau, 1985).
+전문가들은 경험이 적은 인력이 전혀 놓칠 수 있는 신호를 감지하고 의미 있는 패턴을 볼 수 있다 (de Groot, 1946/1978; Klein & Hoffman, 1993; Shanteau, 1985).
+
+**Job Smarts Probe **
+(Heuristics, Tricks of the Trade, Contextual Practices)
+Experts learn how to combine procedures and work the task in the most efficient way possible. They do not cut corners, but they do not waste time and resources either (Klein & Hoffman, 1993).
+
+전문가들은 절차를 조합하는 방법을 배우고, 가능한 가장 효율적인 방식으로 작업을 수행한다. 그들은 지름길을 사용하지 않지만, 시간과 자원을 낭비하지도 않는다 (Klein & Hoffman, 1993)
+일을 잘하는 요령. 이렇게 하면 더 빨리할 수 있다 쉽게할 수 있다
+ex: 나는 항상 앱에 어떤 문구를 쓰기전에 맞춤법 서비스를 이용해서 체크한다. 업무요령
+
+**Opportunities/Improvising Probe.**
+
+Experts are comfortable improvising—seeing what will work in this particular situation. They are also able to shift directions to take advantage of opportunities (Dreyfus & Dreyfus, 1986; Shanteau, 1985).
+전문가들은 즉흥적으로 대처하는 데 익숙하며, 특정 상황에서 무엇이 효과적일지를 알아본다. 또한, 기회를 활용하기 위해 방향을 전환할 수 있는 능력이 있다 (Dreyfus & Dreyfus, 1986; Shanteau, 1985).
+
+**Self-monitoring Probe** (Metacognition)
+
+Experts are aware of their performance, they check how they are doing and make adjustments. Experts notice when their performance is not what it should be (due to stress or fatigue, for example), and they are able to adjust to get the job done (Cohen, Freeman, & Wolf, 1996; Glaser & Chi, 1988).
+전문가들은 자신의 성과를 인식하고, 자신의 수행 상태를 점검하며 필요한 조정을 한다. 전문가들은 자신의 성과가 기대치에 미치지 못할 때 (예를 들어, 스트레스나 피로로 인해) 이를 인지하고, 작업을 완수하기 위해 적절히 조정할 수 있다 (Cohen, Freeman, & Wolf, 1996; Glaser & Chi, 1988).
+
+**Anomalies Probe** 
+(Perceptual Skills, Situation Awareness)
+Novices don't know what is typical so they have a hard time identifying the unusual or atypical. Experts can quickly spot unusual events and detect deviations, and they are able to notice when something that should happen does not happen (Chi, Hutchinson, & Robin, 1988; Klein, 1989; Klein, 1997; Klein & Hoffman, 1993).
+초보자들은 무엇이 전형적인지 모르기 때문에 비정상적이거나 특이한 것을 식별하는 데 어려움을 겪는다. 반면에 전문가들은 비정상적인 사건을 빠르게 감지하고, 일탈을 발견할 수 있으며, 발생해야 할 일이 일어나지 않을 때 이를 인지할 수 있다 (Chi, Hutchinson, & Robin, 1988; Klein, 1989; Klein, 1997; Klein & Hoffman, 1993).
+
+**Equipment Difficulties Probe**
+
+Experts know that their equipment can sometimes mislead. Novices usually believe whatever the equipment tells them, they don't know to be skeptical (Cannon-Bowers, Salas, & Converse, 1992).
+전문가들은 때때로 장비가 오도할 수 있다는 것을 알고 있다. 초보자들은 대체로 장비가 알려주는 모든 것을 믿는다. 그들은 회의적일 필요가 있다는 것을 모른다 (Cannon-Bowers, Salas, & Converse, 1992).
+
+sense up difficulty association
+업그레이드 버전에 추가. 
+뭘 보면 이게 어떤 유형인지를 아는 걸 말한다. 뭐 하나를 보면 이게 그거네. 패턴인식에 가까운 것
+
+## 🔗 연결된 카드
+- [너드랩](../%EB%B3%B4%EB%93%9C/%EB%84%88%EB%93%9C%EB%9E%A9.md)
